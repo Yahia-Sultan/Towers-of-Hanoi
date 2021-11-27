@@ -1,0 +1,27 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	BtmStk                  3097
+//	Count                   3094
+//	DONE                    3024
+//	Disks                   3109
+//	Disks2                  3114
+//	Disks3                  3120
+//	Fin                     312A
+//	Finish                  3100
+//	INVALID                 3103
+//	Inst                    305C
+//	Inst2                   3073
+//	MvDisk                  3099
+//	OneDisk                 30EB
+//	Prn                     3096
+//	PrnV                    3095
+//	R0Save                  312D
+//	R4Save                  312E
+//	R7Save                  3108
+//	Read                    3003
+//	ToH                     3025
+//	True7                   3098
+//	int0                    3092
+//	int9                    3093
+//	inv                     304A
+//	invR7                   305B
